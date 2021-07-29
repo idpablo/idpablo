@@ -8,6 +8,8 @@
     JS          == true;
     CSS(LESS)   == true;
     Bootstrap   == true;
+    MySQL       == true;
+    PostgreSQL  == true;
 
 }skills else{
 
