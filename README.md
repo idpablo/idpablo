@@ -4,17 +4,17 @@
 
 ### skills(WebDeveloperKit){
     
-    PHP == true;
-    JS == true;
-    CSS(LESS) == true;
-    Bootstrap == true;
+    PHP         == true;
+    JS          == true;
+    CSS(LESS)   == true;
+    Bootstrap   == true;
 
 }skills else{
 
-    Java == is loading;
-    C++ == is loading;
-    C == is loading;
-    nodeJs == is loading;
+    Java    == is loading;
+    C++     == is loading;
+    C       == is loading;
+    nodeJs  == is loading;
 }
 
 
