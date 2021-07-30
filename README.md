@@ -21,7 +21,7 @@
     nodeJs  == is loading;
 }
 
-![alt text](https://www.linkedin.com/in/idpablo/)
+![alt text]((https://github.com/idpablo/idpablo/blob/main/img/linkedin.svg)https://www.linkedin.com/in/idpablo/)
 
 
 
