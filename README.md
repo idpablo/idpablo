@@ -21,7 +21,7 @@
     nodeJs  == is loading;
 }
 
-![Linkedin](https://www.linkedin.com/in/idpablo/(https://github.com/idpablo/idpablo/blob/main/img/linkedin.svg))
+![](https://www.linkedin.com/in/idpablo/)
 
 
 
