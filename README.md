@@ -1,6 +1,6 @@
 # Hellow, Word!
  
- ![alt text](https://github.com/idpablo/idpablo/blob/main/img/banne.png)
+ ![alt text](https://github.com/idpablo/idpablo/blob/main/img/banner.png)
 
 ## My name is Pablo, i study development the one year and...
 
