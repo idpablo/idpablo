@@ -1,5 +1,3 @@
-<div>
-
 # Hellow, Word!
  
  ![alt text](https://github.com/idpablo/idpablo/blob/main/img/banner.png)
@@ -22,12 +20,8 @@
     C       == is loading;
     nodeJs  == is loading;
 }
-    <div>
 
-        alonjsdbnfbsd sd vhsb
-    
-    </div>
-</div>
+
 
 
 
