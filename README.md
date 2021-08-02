@@ -15,10 +15,10 @@
 
 <table>
      <tbody>
-        <tr height="30px" h2>
+        <tr height="30px">
             <td width="1700px" h1>
 
-                <h2> skills(WebDeveloperKit){ </h2>
+                    skills(WebDeveloperKit){ 
                     
                     PHP         == true;
                     JS          == true;
