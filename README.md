@@ -14,9 +14,9 @@
 </p>
 
 <table>
-     <tbody>
-        <tr height="30px">
-            <td width="1700px" h1>
+     <tbody class="p1">
+        <tr height="auto">
+            <td width="auto" h1>
 
                     skills(WebDeveloperKit){ 
                     
