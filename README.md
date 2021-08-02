@@ -11,7 +11,7 @@
 
 <table>
      <tbody>
-        <tr>
+        <tr height="30px">
             <td width="1700px">
                 ## My name is Pablo, i study development the one year and...
 
