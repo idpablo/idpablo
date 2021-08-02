@@ -9,6 +9,8 @@
         <a mailto:pablo.soares.dev@gmail.com" target="_blank"><img src="https://github.com/idpablo/idpablo/blob/main/icon/bxs-contact.svg"></a>
 </p>
 
+<table>
+
 ## My name is Pablo, i study development the one year and...
 
 ### skills(WebDeveloperKit){
@@ -28,7 +30,7 @@
     nodeJs  == is loading;
 }
 
-
+</table>
 
 
 
