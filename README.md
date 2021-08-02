@@ -1,7 +1,7 @@
 # Hellow, Word!
  
  <p align=center"">
-    ## My name is...
+ ## My name is...
  </p>
 
  ![alt text](https://github.com/idpablo/idpablo/blob/main/img/banner.png)
@@ -16,9 +16,9 @@
 <table>
      <tbody class="p1">
         <tr height="auto">
-            <td width="100%" h1>
+            <td width="max-content">
 
-                    skills(WebDeveloperKit){ 
+##                    skills(WebDeveloperKit){ 
                     
                     PHP         == true;
                     JS          == true;
@@ -27,13 +27,13 @@
                     MySQL       == true;
                     PostgreSQL  == true;
 
-                }skills else{
+##                }skills else{
 
                     Java    == is loading;
                     C++     == is loading;
                     C       == is loading;
                     nodeJs  == is loading;
-                }
+##                }
 </td>
         </tr>
     </tbody>
