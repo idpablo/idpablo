@@ -16,7 +16,7 @@
 <table>
      <tbody class="p1">
         <tr height="auto">
-            <td width="auto" h1>
+            <td width="100%" h1>
 
                     skills(WebDeveloperKit){ 
                     
