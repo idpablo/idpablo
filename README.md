@@ -1,7 +1,6 @@
 # Hellow, Word!
  
- <p align=center"">
- ## My name is...
+ <p align="center" h1>
  </p>
 
  ![alt text](https://github.com/idpablo/idpablo/blob/main/img/banner.png)
@@ -14,11 +13,11 @@
 </p>
 
 <table>
-     <tbody class="p1">
-        <tr height="auto">
+     <tbody>
+        <tr>
             <td width="1700px">
 
-##                    skills(WebDeveloperKit){ 
+                    skills(WebDeveloperKit){ 
                     
                     PHP         == true;
                     JS          == true;
