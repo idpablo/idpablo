@@ -27,13 +27,13 @@
                     MySQL       == true;
                     PostgreSQL  == true;
 
-##                }skills else{
+                    }skills else{
 
                     Java    == is loading;
                     C++     == is loading;
                     C       == is loading;
                     nodeJs  == is loading;
-##                }
+                }
 </td>
         </tr>
     </tbody>
