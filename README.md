@@ -11,24 +11,28 @@
 
 <table>
      <tbody>
-        ## My name is Pablo, i study development the one year and...
+        <tr>
+            <td>
+                ## My name is Pablo, i study development the one year and...
 
-        ### skills(WebDeveloperKit){
-            
-            PHP         == true;
-            JS          == true;
-            CSS(LESS)   == true;
-            Bootstrap   == true;
-            MySQL       == true;
-            PostgreSQL  == true;
+                ### skills(WebDeveloperKit){
+                    
+                    PHP         == true;
+                    JS          == true;
+                    CSS(LESS)   == true;
+                    Bootstrap   == true;
+                    MySQL       == true;
+                    PostgreSQL  == true;
 
-        }skills else{
+                }skills else{
 
-            Java    == is loading;
-            C++     == is loading;
-            C       == is loading;
-            nodeJs  == is loading;
-        }
+                    Java    == is loading;
+                    C++     == is loading;
+                    C       == is loading;
+                    nodeJs  == is loading;
+                }
+            </td>
+        </tr>
     </tbody>
 </table>
 
