@@ -34,9 +34,9 @@
                     C       == is loading;
                     nodeJs  == is loading;
                 }
-                </td>
-</tr>
-</tbody>
+</td>
+        </tr>
+    </tbody>
 </table>
 
 
