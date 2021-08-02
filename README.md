@@ -12,7 +12,7 @@
 <table>
      <tbody>
         <tr>
-            <td style="color: blue">
+            <td width="1700px">
                 ## My name is Pablo, i study development the one year and...
 
                 ### skills(WebDeveloperKit){
