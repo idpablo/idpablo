@@ -1,5 +1,8 @@
 # Hellow, Word!
  
+ <p align=center"">
+    ## My name is...
+ </p>
  ![alt text](https://github.com/idpablo/idpablo/blob/main/img/banner.png)
 
  <p align="center">
@@ -13,7 +16,6 @@
      <tbody>
         <tr height="30px">
             <td width="1700px">
-                ## My name is Pablo, i study development the one year and...
 
                 ### skills(WebDeveloperKit){
                     
