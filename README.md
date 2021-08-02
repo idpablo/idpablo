@@ -3,7 +3,7 @@
  <p align=center"">
     ## My name is...
  </p>
- 
+
  ![alt text](https://github.com/idpablo/idpablo/blob/main/img/banner.png)
 
  <p align="center">
@@ -15,10 +15,10 @@
 
 <table>
      <tbody>
-        <tr height="30px">
-            <td width="1700px">
+        <tr height="30px" h2>
+            <td width="1700px" h1>
 
-                ### skills(WebDeveloperKit){
+                <h2> skills(WebDeveloperKit){ </h2>
                     
                     PHP         == true;
                     JS          == true;
