@@ -14,9 +14,6 @@
 </p>
 
 <table>
-     <tbody>
-        <tr>
-            <td width="1700px">
 
                     skills(WebDeveloperKit){ 
                     
@@ -34,9 +31,8 @@
                     C       == is loading;
                     nodeJs  == is loading;
                 }
-</td>
-        </tr>
-    </tbody>
+
+  
 </table>
 
 
