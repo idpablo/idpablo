@@ -14,29 +14,29 @@
 </p>
 
 <table>
-     <tbody>
-        <tr align="left" margin-top="10px">
-            <td width="1700px" >
+  <tbody>
+   <tr align="left" margin-top="10px">
+  <td width="1700px" >
 
-                    skills(WebDeveloperKit){ 
-                    
-                    PHP         == true;
-                    JS          == true;
-                    CSS(LESS)   == true;
-                    Bootstrap   == true;
-                    MySQL       == true;
-                    PostgreSQL  == true;
+     skills(WebDeveloperKit){ 
 
-                    }skills else{
+     PHP         == true;
+     JS          == true;
+     CSS(LESS)   == true;
+     Bootstrap   == true;
+     MySQL       == true;
+     PostgreSQL  == true;
 
-                    Java    == is loading;
-                    C++     == is loading;
-                    C       == is loading;
-                    nodeJs  == is loading;
-                }
-</td>
-        </tr>
-    </tbody>
+     }skills else{
+
+     Java    == is loading;
+     C++     == is loading;
+     C       == is loading;
+     nodeJs  == is loading;
+ }
+ </td>
+  </tr>
+  </tbod>
 </table>
 
 
