@@ -15,8 +15,8 @@
 
 <table>
      <tbody>
-        <tr align="left">
-            <td width="1700px" margin-top="10px">
+        <tr align="left" margin-top="10px">
+            <td width="1700px" >
 
                     skills(WebDeveloperKit){ 
                     
