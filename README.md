@@ -33,7 +33,8 @@
      C++     == is loading;
      C       == is loading;
      nodeJs  == is loading;
- }
+                   }
+                    
  </td>
   </tr>
   </tbod>
