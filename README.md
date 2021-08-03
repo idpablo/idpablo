@@ -30,8 +30,8 @@
                     C++     == is loading;
                     C       == is loading;
                     nodeJs  == is loading;
-                }
-
+             
+                    }
   
 </table>
 
