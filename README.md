@@ -20,7 +20,6 @@
 
      skills(WebDeveloperKit){ 
 
-     PHP         == true;
      JS          == true;
      CSS(LESS)   == true;
      Bootstrap   == true;
