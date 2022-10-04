@@ -21,13 +21,12 @@
      skills(WebDeveloperKit){ 
 
      JS          += AngularJS(true);
+     Java        += Spring(true);
      CSS(LESS)   == true;
      Bootstrap   == true;
      MySQL       == true;
      PostgreSQL  == true;
-     Java        += Spring(true);
-                  
-                    
+     
      }              
  </td>
   </tr>
