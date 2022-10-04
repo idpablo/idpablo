@@ -20,20 +20,15 @@
 
      skills(WebDeveloperKit){ 
 
-     JS          == true;
+     JS          += AngularJS(true);
      CSS(LESS)   == true;
      Bootstrap   == true;
      MySQL       == true;
      PostgreSQL  == true;
-
-     }skills else{
-
-     Java    == is loading;
-     C++     == is loading;
-     C       == is loading;
-     nodeJs  == is loading;
-                   }
+     Java        += Spring(true);
+                  
                     
+     }              
  </td>
   </tr>
   </tbod>
