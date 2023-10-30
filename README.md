@@ -4,7 +4,7 @@
     My name is...
  </p>
 
- ![alt text](https://github.com/idpablo/idpablo/blob/main/img/banner-github.jpg)
+ ![alt text](https://github.com/idpablo/idpablo/blob/main/img/banner-github.png)
 
  <p align="center">
         <a href="https://www.linkedin.com/in/idpablo/" target="_blank"><img src="https://github.com/idpablo/idpablo/blob/main/icon/bxl-linkedin-square.svg"></a>
