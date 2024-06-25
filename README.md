@@ -5,7 +5,7 @@
 </p>
 
 <div>
-  <img src="https://github.com/idpablo/idpablo/blob/main/img/banner-github.png" height="150" alt="Banner"  />
+  <img src="https://github.com/idpablo/idpablo/blob/main/img/banner-github.png" height="200" alt="Banner"  />
 </div>
 
 <p align="center">
