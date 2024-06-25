@@ -5,7 +5,7 @@
 </p>
 
 <div>
-  <img src="https://github.com/idpablo/idpablo/blob/main/img/banner-github.png&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&username=idpablo" height="150" alt="languages graph"  />
+  <img src="https://github.com/idpablo/idpablo/blob/main/img/banner-github.png" height="150" alt="Banner"  />
 </div>
 
 <p align="center">
