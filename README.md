@@ -18,7 +18,7 @@ Me encontro encantado com o mundo das IA's e dando ênfase na matemática e esta
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&username=idpablo&hide=html" height="150" alt="languages graph"  />
 </div>
 
-<hr>
+<br>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" width="52" alt="angularjs logo"  />
@@ -31,17 +31,17 @@ Me encontro encantado com o mundo das IA's e dando ênfase na matemática e esta
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" width="52" alt="visualstudio logo"  />
 </div>
 
+<hr>
+<br>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/idpablo/" target="_blank">
-    <img src="https://github.com/idpablo/idpablo/blob/main/icon/bxl-linkedin-square.svg" style="drop-shadow(5px white);">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"  height="40" width="52" alt="linkedin logo">
   </a>
-  <a href="https://twitter.com/idpabl" target="_blank">
-    <img src="https://github.com/idpablo/idpablo/blob/main/icon/bxl-twitter.svg" style="drop-shadow(5px white);">
-  </a>
-  <a href="https://www.instagram.com/idpabl/" target="_blank">
-    <img src="https://github.com/idpablo/idpablo/blob/main/icon/bxl-instagram.svg" style="drop-shadow(5px white);">
+  <a href="https://www.instagram.com/i.pablo.dev/" target="_blank">
+    <img src="https://github.com/idpablo/idpablo/blob/main/icon/instagram-1-svgrepo-com.svg" height="40" width="52" alt="instagram logo">
   </a>
   <a href="mailto:pablo.soares.dev@gmail.com" target="_blank">
-    <img src="https://github.com/idpablo/idpablo/blob/main/icon/bxs-contact.svg" style="drop-shadow(5px white);">
+    <img src="https://github.com/idpablo/idpablo/blob/main/icon/bxs-contact.svg" height="40" width="52" alt="linkedin logo">
   </a>
 </p>
