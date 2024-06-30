@@ -11,7 +11,7 @@ Me encontro encantado com o mundo das IA's e dando ênfase na matemática e esta
 
 </p>
 
-<p></p>
+<hr>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&username=idpablo" height="150" alt="stats graph"  />
