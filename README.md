@@ -6,7 +6,7 @@
 
 ![Pablo Soares GitHub stats](https://github-readme-stats.vercel.app/api?username=idpablo&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idpablo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idpablo&layout=compact)]
 
 <p align="center">
   <a href="https://www.linkedin.com/in/idpablo/" target="_blank">
