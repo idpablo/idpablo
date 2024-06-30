@@ -4,9 +4,7 @@
    My name is...
 </p>
 
-<div>
-  <img src="https://github.com/idpablo/idpablo/blob/main/img/banner-github.png" height="200" alt="Banner"  />
-</div>
+![Pablo Soares GitHub stats](https://github-readme-stats.vercel.app/api?username=idpablo&show_icons=true&theme=radical)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/idpablo/" target="_blank">
