@@ -19,6 +19,7 @@ Me encontro encantado com o mundo das IA's e dando ênfase na matemática e esta
 </div>
 
 <br>
+<br>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
@@ -42,6 +43,6 @@ Me encontro encantado com o mundo das IA's e dando ênfase na matemática e esta
     <img src="https://github.com/idpablo/idpablo/blob/main/icon/instagram-1-svgrepo-com.svg" height="40" width="52" alt="instagram logo">
   </a>
   <a href="mailto:pablo.soares.dev@gmail.com" target="_blank">
-    <img src="https://github.com/idpablo/idpablo/blob/main/icon/bxs-contact.svg" height="40" width="52" alt="linkedin logo">
+    <img src="https://github.com/idpablo/idpablo/blob/main/icon/mail-reception-svgrepo-com.svg" height="40" width="52" alt="linkedin logo">
   </a>
 </p>
