@@ -4,10 +4,6 @@
    My name is...
 </p>
 
-![Pablo Soares GitHub stats](https://github-readme-stats.vercel.app/api?username=idpablo&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idpablo&layout=compact)]
-
 <p align="center">
   <a href="https://www.linkedin.com/in/idpablo/" target="_blank">
     <img src="https://github.com/idpablo/idpablo/blob/main/icon/bxl-linkedin-square.svg" style="filter: drop-shadow(5px 5px 10px white);">
