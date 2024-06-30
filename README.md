@@ -12,7 +12,11 @@ Me encontro encantado com o mundo das IA's e dando ênfase na matemática e esta
 </p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idpablo&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&username=idpablo" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&username=idpablo&hide=html" height="150" alt="languages graph"  />
+</div>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/idpablo/" target="_blank">
     <img src="https://github.com/idpablo/idpablo/blob/main/icon/bxl-linkedin-square.svg" style="drop-shadow(5px white);">
