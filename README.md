@@ -11,6 +11,8 @@ Me encontro encantado com o mundo das IA's e dando ênfase na matemática e esta
 
 </p>
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 <p align="center">
   <a href="https://www.linkedin.com/in/idpablo/" target="_blank">
     <img src="https://github.com/idpablo/idpablo/blob/main/icon/bxl-linkedin-square.svg" style="drop-shadow(5px white);">
