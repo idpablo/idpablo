@@ -11,7 +11,15 @@
  <br>
  <hr>
  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&username=idpablo&hide=html" height="150" alt="languages graph"  />
-  <br>
+ <svg width="500" height="150" viewBox="0 0 500 150" xmlns="http://www.w3.org/2000/svg">
+  <!-- Fundo Amarelo -->
+  <rect width="500" height="150" fill="#FFFF00" />
+  
+  <!-- Pac-Man -->
+  <circle cx="250" cy="75" r="50" fill="#FFD700" />
+  <path d="M250,75 L300,50 A50,50 0 1,1 300,100 Z" fill="#FFF" />
+</svg>
+ <br>
  <br>
  <div align="center">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
