@@ -1,4 +1,4 @@
-<div>
+<div align="center">
  <h1>Hellow, Word!</h1>
  <h3>Meu nome é Pablo Bento Soares. </h3>
  <p>
@@ -10,7 +10,7 @@
  </div>
  <br>
  <br>
- <div align="center">
+ <div>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" width="52" alt="spring logo"  />
@@ -22,7 +22,7 @@
  </div>
  <hr>
  <br>
- <p align="center">
+ <p>
    <a href="https://www.linkedin.com/in/idpablo/" target="_blank">
      <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"  height="40" width="52" alt="linkedin logo">
    </a>
