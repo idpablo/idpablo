@@ -5,9 +5,6 @@
  </p>
  <br>
  <hr>
- <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&username=idpablo&hide=html" height="150" alt="languages graph"/>
- </div>
  <br>
  <br>
  <div>
