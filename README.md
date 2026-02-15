@@ -200,9 +200,6 @@ experiencia:
   ### 📧 Email Direto
   **pablo.soares.dev@gmail.com**
   
-  ### 📱 WhatsApp
-  **(62) 99984-5207**
-  
 </div>
 
 ---
