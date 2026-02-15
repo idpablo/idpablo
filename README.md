@@ -136,11 +136,6 @@ experiencia:
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=idpablo&show_icons=true&count_private=true&hide_border=true&title_color=7aa2f7&icon_color=7aa2f7&text_color=c0caf5&bg_color=1a1b26&theme=tokyonight" alt="GitHub Stats" />
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idpablo&layout=compact&hide_border=true&title_color=7aa2f7&text_color=c0caf5&bg_color=1a1b26&theme=tokyonight" />
-</div>
-
-<div align="center">
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=idpablo&theme=tokyonight&hide_border=true&stroke=0000&background=1a1b26&ring=7aa2f7&fire=7aa2f7&currStreakLabel=7aa2f7" alt="GitHub Streak" />
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=idpablo&bg_color=1a1b26&color=7aa2f7&line=7aa2f7&point=c0caf5&hide_border=true&area=true&theme=tokyo-night" alt="Contribution Graph" />
 </div>
