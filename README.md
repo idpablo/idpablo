@@ -125,10 +125,6 @@ experiencia:
       <b>Organizado</b>
     </td>
     <td align="center" width="150">
-      <img src="https://img.icons8.com/color/96/000000/collaborate.png" width="48" height="48" alt="Colaborativo"/><br />
-      <b>Colaborativo</b>
-    </td>
-    <td align="center" width="150">
       <img src="https://img.icons8.com/color/96/000000/communication.png" width="48" height="48" alt="Comunicativo"/><br />
       <b>Comunicativo</b>
     </td>
