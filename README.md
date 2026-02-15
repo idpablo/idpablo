@@ -4,8 +4,8 @@
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/idpablo/)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ipablo.dev/)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pablo.soares.dev@gmail.com)
-  
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/idpablo)
+   
 </div>
 
 ---
@@ -98,40 +98,13 @@ experiencia:
 
 ## 🎯 Soft Skills
 
-<table>
-  <tr>
-    <td align="center" width="150">
-      <img src="https://img.icons8.com/color/96/000000/brain.png" width="48" height="48" alt="Adaptabilidade"/><br />
-      <b>Adaptabilidade</b>
-    </td>
-    <td align="center" width="150">
-      <img src="https://img.icons8.com/color/96/000000/idea.png" width="48" height="48" alt="Solucionador"/><br />
-      <b>Solucionador de Problemas</b>
-    </td>
-    <td align="center" width="150">
-      <img src="https://img.icons8.com/color/96/000000/book.png" width="48" height="48" alt="Estudioso"/><br />
-      <b>Estudioso</b>
-    </td>
-    <td align="center" width="150">
-      <img src="https://img.icons8.com/color/96/000000/target.png" width="48" height="48" alt="Focado"/><br />
-      <b>Focado</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="150">
-      <img src="https://img.icons8.com/color/96/000000/rocket.png" width="48" height="48" alt="Proativo"/><br />
-      <b>Proativo</b>
-    </td>
-    <td align="center" width="150">
-      <img src="https://img.icons8.com/color/96/000000/organization.png" width="48" height="48" alt="Organizado"/><br />
-      <b>Organizado</b>
-    </td>
-    <td align="center" width="150">
-      <img src="https://img.icons8.com/color/96/000000/communication.png" width="48" height="48" alt="Comunicativo"/><br />
-      <b>Comunicativo</b>
-    </td>
-  </tr>
-</table>
+- ✅ **Adaptabilidade** - Capacidade de me adaptar a novas tecnologias e cenários
+- ✅ **Solucionador de Problemas** - Analítico e orientado a soluções
+- ✅ **Estudioso** - Aprendizado contínuo e atualização constante
+- ✅ **Focado** - Foco em resultados e entregas de qualidade
+- ✅ **Proativo** - Antecipação de necessidades e melhorias
+- ✅ **Organizado** - Metodologia e organização no trabalho
+- ✅ **Comunicativo** - Boa comunicação técnica e interpessoal
 
 ---
 
@@ -142,12 +115,21 @@ experiencia:
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=idpablo&bg_color=1a1b26&color=7aa2f7&line=7aa2f7&point=c0caf5&hide_border=true&area=true&theme=tokyo-night" alt="Contribution Graph" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=idpablo&theme=tokyonight&hide_border=true&bg_color=1a1b26&text_color=c0caf5&include_all_commits=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=idpablo&theme=tokyonight&hide_border=true&bg_color=1a1b26&text_color=c0caf5&include_all_commits=true" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=idpablo&theme=tokyonight&hide_border=true&column=-1&margin-w=10" alt="Trophy" />
+</div>
+
 ---
 
 ## 📫 Entre em Contato
 
 <div align="center">
-  
+   
   ### 💬 Vamos conversar sobre tecnologia?
   
   <p>
@@ -160,11 +142,11 @@ experiencia:
     <a href="https://www.instagram.com/ipablo.dev/">
       <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
+    <a href="https://github.com/idpablo">
+      <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
   </p>
-  
-  ### 📧 Email Direto
-  **pablo.soares.dev@gmail.com**
-  
+   
 </div>
 
 ---
