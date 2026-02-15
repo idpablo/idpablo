@@ -111,17 +111,17 @@ experiencia:
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=idpablo&theme=tokyonight&hide_border=true&stroke=0000&background=1a1b26&ring=7aa2f7&fire=7aa2f7&currStreakLabel=7aa2f7" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats"><img width="49%" src="https://streak-stats.demolab.com?user=idpablo&theme=tokyonight&hide_border=true&stroke=0000&background=1a1b26&ring=7aa2f7&fire=7aa2f7&currStreakLabel=7aa2f7" alt="GitHub Streak" /></a>
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=idpablo&bg_color=1a1b26&color=7aa2f7&line=7aa2f7&point=c0caf5&hide_border=true&area=true&theme=tokyo-night" alt="Contribution Graph" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=idpablo&theme=tokyonight&hide_border=true&bg_color=1a1b26&text_color=c0caf5&include_all_commits=true" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=idpablo&theme=tokyonight&hide_border=true&bg_color=1a1b26&text_color=c0caf5&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/api/top-langs/?username=idpablo&theme=tokyonight&hide_border=true&bg_color=1a1b26&text_color=c0caf5&layout=compact" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/api?username=idpablo&theme=tokyonight&hide_border=true&bg_color=1a1b26&text_color=c0caf5" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=idpablo&theme=tokyonight&hide_border=true&column=-1&margin-w=10" alt="Trophy" />
+  <img src="https://badges.aleen42.com/src/trophy.svg?username=idpablo&theme=tokyonight" alt="Trophy" />
 </div>
 
 ---
