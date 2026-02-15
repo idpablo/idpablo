@@ -1,12 +1,7 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9B1D6&center=true&vCenter=true&width=940&lines=Olá%2C+Seja+Bem+vindo!+%F0%9F%91%8B;Sou+Pablo+Soares;Desenvolvedor+Java+%E2%98%95;Especialista+em+Linux+%F0%9F%90%A7;Apaixonado+por+DevOps+%F0%9F%9A%80" alt="Typing SVG" />
-</div>
-
-<div align="center">
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/idpablo/)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ipablo.dev/)
-  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5562999845207)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pablo.soares.dev@gmail.com)
   
 </div>
@@ -185,9 +180,6 @@ experiencia:
   <p>
     <a href="mailto:pablo.soares.dev@gmail.com">
       <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://wa.me/5562999845207">
-      <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
     </a>
     <a href="https://www.linkedin.com/in/idpablo/">
       <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
