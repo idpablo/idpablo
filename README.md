@@ -10,7 +10,7 @@
 
 ---
 
-## 👨‍💻 Sobre Mim
+## 👨‍💻 About
 
 ```java
 public class PabloSoares {
