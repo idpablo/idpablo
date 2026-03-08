@@ -115,11 +115,6 @@ experiencia:
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=idpablo&bg_color=1a1b26&color=7aa2f7&line=7aa2f7&point=c0caf5&hide_border=true&area=true&theme=tokyo-night" alt="Contribution Graph" />
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/api/top-langs/?username=idpablo&theme=tokyonight&hide_border=true&bg_color=1a1b26&text_color=c0caf5&layout=compact" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com/api?username=idpablo&theme=tokyonight&hide_border=true&bg_color=1a1b26&text_color=c0caf5" alt="GitHub Stats" />
-</div>
-
 ---
 
 <div align="center">
