@@ -69,7 +69,7 @@ public class PabloSoares {
 
 ---
 
-## 💼 Experiência Profissional
+## 🆙 XP
 
 ```yaml
 experiencia:
