@@ -12,22 +12,22 @@
 
 ```java
 public class PabloSoares {
-    
+
     private String nome = "Pablo Soares";
-    private String cargo = "Desenvolvedor Java";
+    private String cargo = "Desenvolvedor Backend & Platform Engineer";
     private String localizacao = "Goiás, Brasil";
     private String formacao = "Sistemas de Informação - UEG";
-    
-    public String[] getInteresses() {
+
+    public String[] getFocoAtual() {
         return new String[]{
-            "Desenvolvimento Backend",
-            "DevOps & Cloud",
-            "Infraestrutura Linux",
-            "Automação de Processos",
-            "Open Source"
+            "Backend Java / Spring Boot",
+            "Kubernetes & AWS (EKS, Fargate, IRSA)",
+            "Infraestrutura como Código com Terraform",
+            "Automação de processos e CI/CD",
+            "Aplicações com LLMs"
         };
     }
-    
+
     public String getFoco() {
         return "Transformar café em código de qualidade ☕ → 💻";
     }
@@ -38,32 +38,27 @@ public class PabloSoares {
 
 ## 🛠️ Arsenal Tecnológico
 
-### 💻 Linguagens de Programação
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+**Linguagens**
 
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![ElasticSearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+[![Linguagens](https://skillicons.dev/icons?i=java,python,ts,go,bash,powershell&perline=6)](https://skillicons.dev)
 
-### 🚀 DevOps & Tools
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+**Backend & Frontend**
 
-### 📊 Monitoramento
-![Elastic Stack](https://img.shields.io/badge/Elastic_Stack-005571?style=for-the-badge&logo=elastic-stack&logoColor=white)
-![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
-![Logstash](https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=logstash&logoColor=white)
+[![Backend](https://skillicons.dev/icons?i=spring,nodejs,react&perline=3)](https://skillicons.dev)
 
-### 📋 Metodologias
-![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
-![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge&logo=atlassian&logoColor=white)
+**Cloud, Infra & CI/CD**
+
+[![Cloud](https://skillicons.dev/icons?i=aws,terraform,kubernetes,docker,linux,githubactions,git&perline=7)](https://skillicons.dev)
+
+**Dados & Mensageria**
+
+[![Dados](https://skillicons.dev/icons?i=postgres,mongodb,rabbitmq,elasticsearch&perline=4)](https://skillicons.dev)
+
+**Observabilidade**
+
+[![Observabilidade](https://skillicons.dev/icons?i=prometheus,grafana&perline=2)](https://skillicons.dev)
+
+**Também no dia a dia** — `Claude` · `Gemini` · `Serverless Framework` · `ELK Stack` · `Scrum` · `Kanban`
 
 ---
 
@@ -72,15 +67,18 @@ public class PabloSoares {
 ```yaml
 experiencia:
   cargo_atual:
-    posicao: "Desenvolvedor Java"
+    posicao: "Desenvolvedor Backend & Platform Engineer"
     periodo: "11/2022 - Atualmente"
-    descricao: "Desenvolvimento de aplicações backend, APIs REST e integração de sistemas"
+    descricao: "Backend Java, plataforma em AWS/Kubernetes e automação de processos"
     responsabilidades:
-      - "Desenvolvimento de microserviços com Java e Spring Boot"
-      - "Implementação de APIs RESTful"
-      - "Otimização de consultas e banco de dados"
-      - "Code review e melhores práticas de desenvolvimento"
-      
+      - "Desenvolvimento de APIs REST e serviços com Java e Spring Boot"
+      - "Provisionamento de infraestrutura com Terraform (EKS, Fargate, S3, IAM/IRSA)"
+      - "Operação de clusters Kubernetes, do kubeadm ao EKS gerenciado"
+      - "Arquiteturas multi-tenant e mensageria com RabbitMQ"
+      - "Pipelines de CI/CD com GitHub Actions e publicação de imagens"
+      - "Automação de processos e integrações com Python"
+      - "Code review e boas práticas de desenvolvimento"
+
   cargo_anterior:
     posicao: "Analista de Infraestrutura"
     periodo: "09/2020 - 11/2022"
@@ -91,6 +89,18 @@ experiencia:
       - "Automação de processos com Shell Script"
       - "Monitoramento e troubleshooting de infraestrutura"
 ```
+
+---
+
+## 🚀 Projetos
+
+| Projeto | Descrição | Stack |
+| :--- | :--- | :--- |
+| [**sig-eks**](https://github.com/idpablo/sig-eks) | Infraestrutura como código multi-tenant (EKS + Fargate + S3 + IRSA), parametrizável por base | `Terraform` `AWS` `Kubernetes` |
+| [**tasker**](https://github.com/idpablo/tasker) | CLI que busca tickets no GLPI, analisa com LLM e gera análise técnica em Markdown | `Python` `LLM` |
+| [**caixinha**](https://github.com/idpablo/caixinha) | Backend de finanças pessoais com logging estruturado, métricas e escala horizontal | `Java` `Spring Boot` `Grafana` |
+| [**dasload**](https://github.com/idpablo/dasload) | Automação do processamento e upload de arquivos DAS | `Python` `AWS` |
+| [**ipablo.dev**](https://github.com/idpablo/ipablo.dev) | Portfólio pessoal | `TypeScript` `React` |
 
 ---
 
@@ -106,19 +116,24 @@ experiencia:
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img width="49%" height="180" src="https://streak-stats.demolab.com?user=idpablo&theme=tokyonight&hide_border=true&stroke=0000&background=1a1b26&ring=7aa2f7&fire=7aa2f7&currStreakLabel=7aa2f7" alt="GitHub Streak" /></a>
-  <img width="49%" height="200" src="https://github-readme-activity-graph.vercel.app/graph?username=idpablo&bg_color=1a1b26&color=7aa2f7&line=7aa2f7&point=c0caf5&hide_border=true&area=true&theme=tokyo-night" alt="Contribution Graph" />
+
+  ![Profile Views](https://komarev.com/ghpvc/?username=idpablo&color=7aa2f7&style=for-the-badge&label=VISUALIZAÇÕES+DO+PERFIL)
+
 </div>
 
 ---
 
 <div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=idpablo&color=7aa2f7&style=for-the-badge&label=VISUALIZAÇÕES+DO+PERFIL)
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=&fontSize=0" width="100%"/>
-  
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=idpablo&theme=tokyonight" width="98%" alt="Resumo do perfil" />
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=idpablo&theme=tokyonight" width="48%" alt="Linguagens mais commitadas" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=idpablo&theme=tokyonight" width="48%" alt="Linguagens por repositório" />
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=idpablo&theme=tokyonight&utcOffset=-3" width="48%" alt="Horários produtivos" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=idpablo&theme=tokyonight" width="48%" alt="Estatísticas" />
+
 </div>
